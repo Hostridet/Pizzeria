@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/Pizzeria/main.cpp
+iostream
+-
+src/Pizzeria.h
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/Pizzeria/src/Pizzeria.h
+
+/cygdrive/c/Users/rumya/OneDrive/Документы/c++projects/Pizzeria/src/Pizzeria.h
+iostream
+-
+vector
+-
+stdexcept
+-
+exception
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Pizzeria.dir/main.cpp.o  -o Pizzeria.exe -Wl,--out-implib,libPizzeria.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
